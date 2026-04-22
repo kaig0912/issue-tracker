@@ -5,10 +5,10 @@ Kursrepo für die LV Softwareengineering SS 2026
 erDiagram
 
 issue {
- TEXT issue_id ,
-  TEXT name ,
-  DATETIME deadline ,
-  BOOL is_done ,
+ TEXT issue_id
+  TEXT name
+  DATETIME deadline
+  BOOL is_done
   TEXT description 
 }
 
