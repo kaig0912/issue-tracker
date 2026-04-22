@@ -1,5 +1,5 @@
 # Issue Tracker App
-Kursrepo für die LV Softwareengineering SS 2026
+Kursrepo für die MCI LV Softwareengineering SS 2026
 
 ```mermaid
 erDiagram
