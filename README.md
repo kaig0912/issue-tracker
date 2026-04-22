@@ -5,7 +5,7 @@ Kursrepo für die LV Softwareengineering SS 2026
 erDiagram
 
 issue {
- TEXT issue_id PK
+ TEXT issue_id PK AUTOINCREMENT
   TEXT name
   DATETIME deadline
   BOOL is_done
